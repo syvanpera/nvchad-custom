@@ -24,6 +24,8 @@ M.plugins = {
 
 M.ui = {
   theme = "tokyodark",
+  -- theme = "onedark",
+  -- theme = "scaceduck",
   hl_override = require "custom.highlights",
 }
 
